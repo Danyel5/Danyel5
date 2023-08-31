@@ -17,4 +17,4 @@
 
 ## Atualmente cursando análise e desenvolvimento de sistemas e estudando outras tecnologias Back-End
 
-## Email para contato: danyelgusthavo.r@gmail.com
+## Email para contato: danyelgrodrigues@gmail.com
